@@ -1,0 +1,29 @@
+body {
+    font-family: Montserrat;
+    margin-top: 15px;
+    text-align: center;
+}
+
+hr {
+    width: 150px;
+}
+
+.title {
+    color: #222831;
+    /* font-size: 24px;
+     ანანო, 24px ძაან არ უხდებოდა :( */
+}
+
+p {
+    font-size: 18px;
+    color: black;
+}
+
+img {
+    height: 500px;
+    width: 750.25;
+}
+
+#special {
+    padding: 15px;
+}
